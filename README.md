@@ -2,24 +2,6 @@
 
 **Hippopotamus** is a non-comercial 2D rogue-like game written in C++ using the [Qt Framework](https://www.qt.io) and Entity Component System architechture pattern.
 
-The game is a study project of FAMCS BSU first year students (February - May 2021) 
-
-Team members:
-
-* Yahor Khadasevich ([@Khody31](https://github.com/Khody31))
-* Palina Chernikava ([@polchernikova](https://github.com/polchernikova))
-* Mikalai Hapaniaka ([@NikolaiNick](https://github.com/NikolaiNick))
-* Uladzislau Koshchanka ([@Koshchanka](https://github.com/Koshchanka))
-
-Mentors:
-
-* Maxim Miasoedenkov([@ternerss](https://github.com/ternerss))
-* Uladzimir Kuzmitsky([@VKuzia](https://github.com/VKuzia))
-
-Best illustrator in the world:
-
-* German Nester([@Xijiks](https://github.com/Xijiks))
-
 ## Game Description
 
 The main character of the game is a traveler who mysteriously found
